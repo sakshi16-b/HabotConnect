@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -77,3 +78,84 @@
     "phoneNumber": "9876501234"
   }
 ]
+=======
+[
+  {
+    "id": 1,
+    "name": "Bright Minds Learning Center",
+    "specialization": "Dyslexia Support",
+    "location": "Pune",
+    "rating": 4.5,
+    "shortDescription": "Expert support for students with dyslexia.",
+    "longDescription": "Bright Minds offers specialized programs tailored to help children overcome reading challenges. Our trained staff uses evidence-based strategies to boost literacy skills.",
+    "contactEmail": "contact@brightminds.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Focus Forward Academy",
+    "specialization": "ADHD Coaching",
+    "location": "Mumbai",
+    "rating": 4.8,
+    "shortDescription": "Empowering students with ADHD to thrive.",
+    "longDescription": "Focus Forward Academy provides coaching and workshops to help students manage attention and behavior. Our team includes certified ADHD coaches and educational therapists.",
+    "contactEmail": "info@focusforward.com",
+    "phoneNumber": "9123456789"
+  },
+  {
+    "id": 3,
+    "name": "The Learning Bridge",
+    "specialization": "Autism Spectrum Support",
+    "location": "Delhi",
+    "rating": 4.7,
+    "shortDescription": "Personalized learning plans for children with ASD.",
+    "longDescription": "The Learning Bridge is committed to inclusive education. We use structured teaching, sensory integration, and visual supports to guide every child on their unique path.",
+    "contactEmail": "support@learningbridge.in",
+    "phoneNumber": "9812345670"
+  },
+  {
+    "id": 4,
+    "name": "Smart Steps Tutoring",
+    "specialization": "General Learning Difficulties",
+    "location": "Bengaluru",
+    "rating": 4.2,
+    "shortDescription": "Helping students with mild learning challenges.",
+    "longDescription": "Smart Steps provides 1-on-1 tutoring and academic support for students with difficulties in reading, writing, or math. We partner with parents and schools for success.",
+    "contactEmail": "hello@smartsteps.com",
+    "phoneNumber": "9900112233"
+  },
+  {
+    "id": 5,
+    "name": "Calm Minds Education",
+    "specialization": "Anxiety & Exam Stress Support",
+    "location": "Chennai",
+    "rating": 4.6,
+    "shortDescription": "Support for managing school-related stress.",
+    "longDescription": "Calm Minds offers therapeutic interventions and coping strategies for students experiencing anxiety, test pressure, and emotional distress related to academics.",
+    "contactEmail": "care@calmminds.org",
+    "phoneNumber": "9988776655"
+  },
+  {
+    "id": 6,
+    "name": "ReadWell Centre",
+    "specialization": "Reading & Literacy Coaching",
+    "location": "Kolkata",
+    "rating": 4.3,
+    "shortDescription": "Building strong readers with proven techniques.",
+    "longDescription": "At ReadWell, we focus on phonics, vocabulary, and reading fluency. Our instructors use engaging methods that develop confident, independent readers.",
+    "contactEmail": "info@readwell.in",
+    "phoneNumber": "9733221100"
+  },
+  {
+    "id": 7,
+    "name": "NeuroNurture",
+    "specialization": "Neurodiversity Learning Support",
+    "location": "Hyderabad",
+    "rating": 4.9,
+    "shortDescription": "Holistic learning for neurodivergent children.",
+    "longDescription": "NeuroNurture specializes in supporting children with varied neurodevelopmental profiles through customized learning plans and occupational therapy support.",
+    "contactEmail": "team@neuronurture.org",
+    "phoneNumber": "9876501234"
+  }
+]
+>>>>>>> 58b097456753b24ee763fb3787c3c3047cddc4da
