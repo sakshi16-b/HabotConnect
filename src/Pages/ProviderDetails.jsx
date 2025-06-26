@@ -1,5 +1,5 @@
 export const ProviderDetails=()=>{
     return(
-        <h1>Provider Details</h1>
+        <h1>Providers Details</h1>
     )
 }
